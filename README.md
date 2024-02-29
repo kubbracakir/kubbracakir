@@ -1,4 +1,4 @@
-[![MasterHead](https://muhendislik.istinye.edu.tr/sites/muhendislik.istinye.edu.tr/files/inline-images/0.jpeg)
+
 <h1 align="center">Hi 👋, I'm Kübra Çakır</h1>
 <h3 align="center">I am a passionate data scientist.</h3>
 
